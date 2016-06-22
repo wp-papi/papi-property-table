@@ -1,0 +1,24 @@
+{
+  "name": "frozzare/papi-property-table",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Table property for Papi",
+  "authors": [
+    {
+      "name": "Fredrik Forsmo",
+      "email": "fredrik.forsmo@gmail.com",
+      "homepage": "https://github.com/frozzare"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "papi"
+  ],
+  "support": {
+    "issues": "https://github.com/frozzare/papi-property-table/issues"
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "~1.0"
+  }
+}
