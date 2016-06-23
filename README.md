@@ -2,6 +2,16 @@
 
 Table property for Papi.
 
+## Installation
+
+This property requires [Papi](https://wp-papi.github.io/) plugin.
+
+If you're using Composer to manage WordPress, add Papi to your project's dependencies. Run:
+
+```sh
+composer require frozzare/papi-property-table
+```
+
 ## Usage
 
 ```php
@@ -33,16 +43,6 @@ $this->box( [
         ]
     ] )
 ] );
-```
-
-## Installation
-
-This property requires [Papi](https://wp-papi.github.io/) plugin.
-
-If you're using Composer to manage WordPress, add Papi to your project's dependencies. Run:
-
-```sh
-composer require frozzare/papi-property-table
 ```
 
 ## License
