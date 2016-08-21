@@ -10,6 +10,6 @@
 /**
  * Include table property.
  */
-add_action( 'papi_include_properties', function () {
+add_action( 'papi/init', function () {
 	include_once __DIR__ . '/class-papi-property-table.php';
 } );
