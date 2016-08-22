@@ -1,4 +1,4 @@
-# Papi - Property Table
+# Papi - Table property
 
 Table property for Papi.
 
