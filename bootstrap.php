@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Plugin Name: Papi: Property Table
+ * Plugin Name: Papi: Table property
  * Description: Table property for Papi
  * Version: 1.0.0
  * Author: Fredrik Forsmo
