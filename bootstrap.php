@@ -5,6 +5,7 @@
  * Description: Table property for Papi
  * Version: 1.0.0
  * Author: Fredrik Forsmo
+ * Plugin URI: https://github.com/wp-papi/papi-property-table
  */
 
 /**
